@@ -8,4 +8,5 @@ description: A collection of short overview of people who inspire in diverse fie
 collections:
   biographies:
     output: true
+    permalink: /biographies/:title/
 

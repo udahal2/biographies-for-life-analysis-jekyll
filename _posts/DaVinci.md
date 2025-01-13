@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: "da vinci"
 permalink: /DaVinci/
+categories: [biographies]
 ---
 
 # Leonardo da Vinci: The Renaissance Polymath
