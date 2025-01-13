@@ -2,26 +2,13 @@
 layout: default
 title: "Elon Musk"
 permalink: /elon_musk/
+
 ---
-
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 # Elon Musk: Visionary Entrepreneur of the 21st Century
-
-## Table of Contents
-1. Early Life and Education
-2. The Birth of Zip2 and X.com
-3. Founding PayPal and eBay Acquisition
-4. Founding SpaceX: A New Frontier
-5. Tesla Motors: Revolutionizing the Auto Industry
-6. SolarCity and Renewable Energy
-7. The Boring Company and Hyperloop
-8. Neuralink and the Future of AI
-9. OpenAI: Ensuring AI Safety
-10. Advocacy for Humanity’s Future
-11. Controversies and Criticisms
-12. Recognition and Awards
-13. Legacy in Technology and Society
-14. Achievements Graph
-15. References
 
 ---
 
