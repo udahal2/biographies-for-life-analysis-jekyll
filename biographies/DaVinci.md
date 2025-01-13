@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "da vinci"
 permalink: /DaVinci/
 categories: [biographies]

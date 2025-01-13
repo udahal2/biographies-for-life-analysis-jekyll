@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Linus Trovalds"
+permalink: /LT/
+---
 # Linus Torvalds: The Pioneer of Open Source
 
 ## Table of Contents
