@@ -1,5 +1,10 @@
 # Elon Musk: The Visionary Entrepreneur
 
+---
+layout: default
+title: "Elon Musk"
+---
+
 ## Table of Contents
 1. Early Life
 2. Education
