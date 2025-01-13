@@ -3,5 +3,5 @@
 # Table of Contents
 
 - [Elon Musk](biographies/ElonMusk.md)
-- [DaVinci](DaVinci.md)
-- [Linus Trovalds](LinusTrovalds.md)
+- [DaVinci](biographies/DaVinci.md)
+- [Linus Trovalds](biographies/LinusTrovalds.md)
