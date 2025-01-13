@@ -1,10 +1,10 @@
-# Elon Musk: The Visionary Entrepreneur
-
 ---
 layout: default
 title: "Elon Musk"
+permalink: /elon_musk/
 ---
 
+# Elon Musk: The Visionary Entrepreneur
 ## Table of Contents
 1. Early Life
 2. Education
