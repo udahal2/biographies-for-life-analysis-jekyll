@@ -8,3 +8,7 @@ url: "https://udahal2.github.io/biographies-for-life-analysis-jekyll/"
 description: A collection of short overview of people who inspire in diverse fields of human life.
 
 
+collections:
+  biographies:
+    output: true
+
