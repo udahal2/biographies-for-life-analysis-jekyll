@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Linus Trovalds"
-permalink: /LT/
+permalink: /Linus_Trovalds/
 ---
 # Linus Torvalds: The Pioneer of Open Source
 

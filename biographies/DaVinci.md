@@ -1,7 +1,7 @@
 ---
-title: "da vinci"
-permalink: /DaVinci/
-categories: [biographies]
+layout: default
+title: "Da Vinci"
+permalink: /davinci/
 ---
 
 # Leonardo da Vinci: The Renaissance Polymath
