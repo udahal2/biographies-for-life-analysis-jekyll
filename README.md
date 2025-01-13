@@ -2,6 +2,6 @@
 
 # Table of Contents
 
-- [Elon Musk](elon_musk.md)
-- [DaVinci](DaVinci.md)
-- [Linus Trovalds](Linus_Trovalds.md)
+- [Elon Musk](elon_musk)
+- [DaVinci](DaVinci)
+- [Linus Trovalds](Linus_Trovalds)
