@@ -1,4 +1,5 @@
 title: Biographies
+permalink: /:title/
 baseurl: "/"
 url: "https://udahal2.github.io"
 theme: jekyll-theme-cayman
