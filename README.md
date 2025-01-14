@@ -5,6 +5,8 @@
 - [Elon Musk](biographies/ElonMusk.md)
 - [DaVinci](biographies/DaVinci.md)
 - [Linus Trovalds](biographies/LinusTrovalds.md)
+- [Isaac Newton](biographies/IssacNewton.md)
+
 
 
 
